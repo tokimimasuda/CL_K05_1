@@ -14,4 +14,5 @@ void main(void) {
 	printf("mojiretu\n");
 	printf("dayo\n");
 	printf("suuretu\n");
+	printf("seisuu\n");
 }
