@@ -13,4 +13,5 @@ void main(void) {
 	printf("%s  %fcmA%fkg\n",sd.name,sd.height,sd.weight);
 	printf("mojiretu\n");
 	printf("dayo\n");
+	printf("suuretu\n");
 }
