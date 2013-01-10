@@ -11,4 +11,5 @@ void main(void) {
 	struct data sd = {"iwasakidejita",175.5,73.2};
 	printf("sokuteikextuka:\n");
 	printf("%s  %fcmA%fkg\n",sd.name,sd.height,sd.weight);
+	printf("mojiretu\n");
 }
